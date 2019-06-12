@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1040802424310",
+    "firebase_url": "https://veterinarydepartment-92cb5.firebaseio.com",
+    "project_id": "veterinarydepartment-92cb5",
+    "storage_bucket": "veterinarydepartment-92cb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040802424310:android:8a399503f995a461",
+        "android_client_info": {
+          "package_name": "com.e.veterinarydepartment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040802424310-90n36dcfjhu1js5boucub697a8pt91j6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.veterinarydepartment",
+            "certificate_hash": "ada481365ab7f7ee7785ded988cbbad64d6df575"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMOO1YhOMDKGC735-1AX4B4902dTNwRQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040802424310-g77ugjan22nv881e8a0amtaeeo54g39g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
